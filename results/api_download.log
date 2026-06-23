@@ -1,0 +1,82 @@
+2026-06-10T18:05:43Z | START request symbol=BTCUSDT interval=1h limit=1000
+2026-06-10T18:05:45Z | END request symbol=BTCUSDT records=1000
+2026-06-10T18:05:45Z | START request symbol=ETHUSDT interval=1h limit=1000
+2026-06-10T18:05:47Z | END request symbol=ETHUSDT records=1000
+2026-06-10T18:05:47Z | START request symbol=BNBUSDT interval=1h limit=1000
+2026-06-10T18:05:49Z | END request symbol=BNBUSDT records=1000
+2026-06-10T18:05:49Z | START request symbol=SOLUSDT interval=1h limit=1000
+2026-06-10T18:05:50Z | END request symbol=SOLUSDT records=1000
+2026-06-10T18:05:50Z | START request symbol=XRPUSDT interval=1h limit=1000
+2026-06-10T18:05:52Z | END request symbol=XRPUSDT records=1000
+2026-06-10T18:05:52Z | START request symbol=ADAUSDT interval=1h limit=1000
+2026-06-10T18:05:54Z | END request symbol=ADAUSDT records=1000
+2026-06-10T18:05:54Z | START request symbol=DOGEUSDT interval=1h limit=1000
+2026-06-10T18:05:56Z | END request symbol=DOGEUSDT records=1000
+2026-06-10T18:05:56Z | START request symbol=AVAXUSDT interval=1h limit=1000
+2026-06-10T18:05:57Z | END request symbol=AVAXUSDT records=1000
+2026-06-10T18:05:57Z | START request symbol=LINKUSDT interval=1h limit=1000
+2026-06-10T18:05:59Z | END request symbol=LINKUSDT records=1000
+2026-06-10T18:05:59Z | START request symbol=DOTUSDT interval=1h limit=1000
+2026-06-10T18:06:01Z | END request symbol=DOTUSDT records=1000
+2026-06-10T18:06:01Z | START request symbol=BTCUSDT interval=1h limit=1000
+2026-06-10T18:06:01Z | START request symbol=ETHUSDT interval=1h limit=1000
+2026-06-10T18:06:01Z | START request symbol=BNBUSDT interval=1h limit=1000
+2026-06-10T18:06:01Z | START request symbol=SOLUSDT interval=1h limit=1000
+2026-06-10T18:06:01Z | START request symbol=XRPUSDT interval=1h limit=1000
+2026-06-10T18:06:03Z | END request symbol=BNBUSDT records=1000
+2026-06-10T18:06:03Z | START request symbol=ADAUSDT interval=1h limit=1000
+2026-06-10T18:06:03Z | END request symbol=ETHUSDT records=1000
+2026-06-10T18:06:03Z | START request symbol=DOGEUSDT interval=1h limit=1000
+2026-06-10T18:06:03Z | END request symbol=SOLUSDT records=1000
+2026-06-10T18:06:03Z | START request symbol=AVAXUSDT interval=1h limit=1000
+2026-06-10T18:06:04Z | END request symbol=BTCUSDT records=1000
+2026-06-10T18:06:04Z | START request symbol=LINKUSDT interval=1h limit=1000
+2026-06-10T18:06:05Z | END request symbol=ADAUSDT records=1000
+2026-06-10T18:06:05Z | START request symbol=DOTUSDT interval=1h limit=1000
+2026-06-10T18:06:05Z | END request symbol=DOGEUSDT records=1000
+2026-06-10T18:06:05Z | END request symbol=AVAXUSDT records=1000
+2026-06-10T18:06:05Z | END request symbol=XRPUSDT records=1000
+2026-06-10T18:06:06Z | END request symbol=LINKUSDT records=1000
+2026-06-10T18:06:06Z | END request symbol=DOTUSDT records=1000
+2026-06-10T18:06:07Z | WROTE csv=data\clean\clean_market_data.csv records=10000
+2026-06-23T15:16:11.485242+00:00 | START request symbol=BTCUSDT interval=1h limit=1000
+2026-06-23T15:16:13.301657+00:00 | END request symbol=BTCUSDT records=1000
+2026-06-23T15:16:13.303655+00:00 | START request symbol=ETHUSDT interval=1h limit=1000
+2026-06-23T15:16:16.798023+00:00 | END request symbol=ETHUSDT records=1000
+2026-06-23T15:16:16.798988+00:00 | START request symbol=BNBUSDT interval=1h limit=1000
+2026-06-23T15:16:18.498697+00:00 | END request symbol=BNBUSDT records=1000
+2026-06-23T15:16:18.500780+00:00 | START request symbol=SOLUSDT interval=1h limit=1000
+2026-06-23T15:16:20.188717+00:00 | END request symbol=SOLUSDT records=1000
+2026-06-23T15:16:20.190709+00:00 | START request symbol=XRPUSDT interval=1h limit=1000
+2026-06-23T15:16:21.860006+00:00 | END request symbol=XRPUSDT records=1000
+2026-06-23T15:16:21.862389+00:00 | START request symbol=ADAUSDT interval=1h limit=1000
+2026-06-23T15:16:23.513429+00:00 | END request symbol=ADAUSDT records=1000
+2026-06-23T15:16:23.515432+00:00 | START request symbol=DOGEUSDT interval=1h limit=1000
+2026-06-23T15:16:25.180481+00:00 | END request symbol=DOGEUSDT records=1000
+2026-06-23T15:16:25.182484+00:00 | START request symbol=AVAXUSDT interval=1h limit=1000
+2026-06-23T15:16:26.838752+00:00 | END request symbol=AVAXUSDT records=1000
+2026-06-23T15:16:26.840673+00:00 | START request symbol=LINKUSDT interval=1h limit=1000
+2026-06-23T15:16:28.562641+00:00 | END request symbol=LINKUSDT records=1000
+2026-06-23T15:16:28.563557+00:00 | START request symbol=DOTUSDT interval=1h limit=1000
+2026-06-23T15:16:30.344109+00:00 | END request symbol=DOTUSDT records=1000
+2026-06-23T15:16:30.347121+00:00 | START request symbol=BTCUSDT interval=1h limit=1000
+2026-06-23T15:16:30.348109+00:00 | START request symbol=ETHUSDT interval=1h limit=1000
+2026-06-23T15:16:30.350108+00:00 | START request symbol=BNBUSDT interval=1h limit=1000
+2026-06-23T15:16:30.351108+00:00 | START request symbol=SOLUSDT interval=1h limit=1000
+2026-06-23T15:16:30.352108+00:00 | START request symbol=XRPUSDT interval=1h limit=1000
+2026-06-23T15:16:32.436162+00:00 | END request symbol=BNBUSDT records=1000
+2026-06-23T15:16:32.438158+00:00 | END request symbol=SOLUSDT records=1000
+2026-06-23T15:16:32.440242+00:00 | END request symbol=XRPUSDT records=1000
+2026-06-23T15:16:32.441160+00:00 | END request symbol=ETHUSDT records=1000
+2026-06-23T15:16:32.442157+00:00 | END request symbol=BTCUSDT records=1000
+2026-06-23T15:16:32.445672+00:00 | START request symbol=ADAUSDT interval=1h limit=1000
+2026-06-23T15:16:32.446674+00:00 | START request symbol=DOGEUSDT interval=1h limit=1000
+2026-06-23T15:16:32.448672+00:00 | START request symbol=AVAXUSDT interval=1h limit=1000
+2026-06-23T15:16:32.448672+00:00 | START request symbol=LINKUSDT interval=1h limit=1000
+2026-06-23T15:16:32.449685+00:00 | START request symbol=DOTUSDT interval=1h limit=1000
+2026-06-23T15:16:34.389827+00:00 | END request symbol=AVAXUSDT records=1000
+2026-06-23T15:16:34.420607+00:00 | END request symbol=DOTUSDT records=1000
+2026-06-23T15:16:34.429108+00:00 | END request symbol=ADAUSDT records=1000
+2026-06-23T15:16:34.436379+00:00 | END request symbol=DOGEUSDT records=1000
+2026-06-23T15:16:34.440295+00:00 | END request symbol=LINKUSDT records=1000
+2026-06-23T15:16:34.475433+00:00 | WROTE csv=data\clean\clean_market_data.csv records=10000
