@@ -1,3 +1,12 @@
+"""
+Development note: Scope of AI Assistance (Gemini)
+I used Gemini as a technical reference and debugging assistant to help research best practices, troubleshoot runtime errors, and verify that the final output format met the grading requirements. Gemini was used to help plan and review the following areas:
+Error Troubleshooting (Missing Columns): Used the AI to debug a KeyError that happened when the script couldn't find columns like quote_volume or trade_count. This helped me implement a dynamic check so the script only processes columns that exist in the file.
+Data Ingestion Analysis (Broken Timestamps): Used the AI to figure out why converting the time columns wiped out the dataset. It helped identify that the raw timestamps were being read as text strings, allowing me to fix the pipeline by converting them to numeric types before parsing them into dates.
+Sampling Strategy: Clarified the logic for creating the final 50-row test sample, ensuring the code grouped the data by symbol properly to pull an even, randomized distribution.
+Data-Quality Audit Review: Used the AI to double-check the final data-quality numbers, which helped catch and resolve a loophole where negative trading volumes were slipping past standard cleanup filters.
+"""
+
 # Second Task
 # "I tested the dataset yesterday, but I accidentally introduced some data problems. 
 # Some values are missing, some numeric columns have text, a few timestamps are invalid, and some symbols have inconsistent formatting. 
